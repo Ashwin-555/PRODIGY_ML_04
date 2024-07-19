@@ -1,2 +1,2 @@
 # PRODIGY_ML_04
-This project develops a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data. This enables intuitive human-computer interaction and gesture-based control systems.
+Hand gesture recognition is a crucial component of human-computer interaction, providing a natural way for users to communicate with machines. This project aims to build a state-of-the-art deep learning model capable of recognizing different hand gestures in real-time, making it suitable for applications like sign language interpretation, virtual reality interfaces, gaming, and smart home controls.
